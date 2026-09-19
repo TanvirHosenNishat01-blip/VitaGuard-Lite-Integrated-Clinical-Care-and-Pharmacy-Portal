@@ -82,7 +82,6 @@
 * **Prescription Verification & Dispense:** Verify prescription validity via Prescription ID, cross-check stock availability, and fulfill orders with automatic inventory deduction.
 
 ---
-
 ## 🛠️ Technology Stack
 
 | Layer | Technologies Used |
